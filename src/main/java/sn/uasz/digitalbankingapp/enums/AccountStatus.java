@@ -1,0 +1,5 @@
+package sn.uasz.digitalbankingapp.enums;
+
+public enum AccountStatus {
+    CREATED, ACTIVATED, SUSPENDED
+}
